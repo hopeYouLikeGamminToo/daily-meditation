@@ -12,7 +12,7 @@ export default {
     data() {
         return {
             player: null,
-            videoID: 'ycDLfQ1Cv_Y', // winter: CUIdMusnugs, ireland: ycDLfQ1Cv_Y, autumn: glENND73k4Q, forest: VNu15Qqomt8, summer: QR3lp0ptpy8, yellowstone: prHBhSsrkbU
+            videoID: 'VNu15Qqomt8', // winter: CUIdMusnugs, ireland: ycDLfQ1Cv_Y, autumn: glENND73k4Q, forest: VNu15Qqomt8, summer: QR3lp0ptpy8, yellowstone: prHBhSsrkbU
         };
     },
     mounted() {
