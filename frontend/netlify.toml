@@ -1,7 +1,7 @@
 [build]
 functions = "netlify/functions"
-base = "frontend/"
-publish = "frontend/dist"
+base = "frontend"
+publish = "/dist"
 
 [dev]
 functions = ".netlify/functions"
