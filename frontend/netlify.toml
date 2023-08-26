@@ -1,7 +1,7 @@
 [build]
 functions = "netlify/functions"
 base = "frontend/"
-command = "yarn run build"
+command = "yarn install && yarn run build"
 publish = "frontend/dist"
 
 [dev]
